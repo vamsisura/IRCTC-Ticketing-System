@@ -1,0 +1,94 @@
+body{
+    width: 100%;
+    height:355vh;
+    background-color: white;
+    margin: 0%;
+}
+#id_headerMenusection{
+    width: 100%;
+    height: 5%;
+    background-color: yellow;
+}
+#id_ticketBookingsection{
+    width: 100%;
+    height: 23%;
+    background-color: green;
+}
+#id_servicesSection{
+    width: 100%;
+    height: 14%;
+    /* background-color: darkblue; */
+}
+#id_holidayContentsection{
+    width: 100%;
+   height: 42%;
+   background-color: rgb(247 247 247 )
+
+}
+#id_holidayTitle{
+    width: 100%;
+    height: 10%;
+    margin: auto;
+    float: left;
+}
+#id_holidayTitle h1{
+    text-align: center;
+}
+#id_holidayPackageContainer{
+    width: 80%;
+    height: 90%;
+    /* background-color: violet; */
+    margin: auto;
+}
+.packageBlock{
+    width: 100%;
+    height: 50%;
+    margin: auto;
+    display: flex;
+
+}
+.packageBlockcard{
+    width: calc(94%/3);
+    height: 96%;
+    margin: 1%;
+    background-color:white;
+}
+.imageBlock{
+    width: 100%;
+    height: 40%;
+}
+.imageBlock img{
+
+    width: 100%;
+    height: 100%;
+}
+.contentBlock{
+    width: 100%;
+    height: 50%;
+}
+.contentBlock h2{
+
+    padding-left: 4%;
+    margin: 1%;
+}
+.contentBlock p{
+    padding-left: 4%;
+    padding-right: 4%;
+    font-size: 13px;
+}
+.arrow{
+    text-decoration: none;
+
+}
+.contentBlock a{
+    margin-left: 2%;
+}
+
+
+
+
+#id_additionInfosection{
+    width: 100%;
+    height: 16%;
+    background-color: brown;
+}

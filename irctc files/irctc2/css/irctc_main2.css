@@ -1,0 +1,227 @@
+body{
+  margin: 0px;
+  height: 355vh;
+}
+
+#id_headMenuSection{
+    height: 5%;
+    width: 100%;
+    background-color: yellow;
+}
+
+#id_ticketBookingSection h1{
+  color: white;
+  margin: 0px;
+  font-size: 40px;
+  font-family: 'Roboto', sans-serif;
+
+}
+
+#id_ticketBookingSection{
+    width: 100%;
+    height: 23%;
+    background-color: cyan;
+    background-image: url(../media/homepage.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding-top: 1%;
+    margin: 0px;
+}
+
+#indianRailwaysText{
+  width: 40%;
+  height: 40%;
+  /* background-color: aqua; */
+  float: right;
+  margin-top: 12%;
+}
+#indianRailwaysText p{
+  color: white;
+  font-size: 18px;
+  margin: 1% 0% 0% 5%;
+  font-family: 'Roboto', sans-serif;
+}
+#id_booking{
+  width: 45%;
+  height: 90%;
+  /* background-color: black; */
+  margin: 2% 0% 0% 5%;
+}
+#id_PNR{
+  width: 49%;
+  height: 6%;
+  color: white;
+  float: left;
+  background-color: #213D77;
+  padding-top: 8px;
+  font-size: 12px;
+  text-align: center;
+  font-weight: 700;
+  font-family: 'Roboto', sans-serif;
+  background-image: url(../media/calendar.png);
+  background-position: left;
+  background-repeat: no-repeat;
+  background-size: 18px;
+  background-position-x: 8%;
+}
+#id_Chart{
+  width: 49%;
+  height: 6%;
+  color: white;
+  float: right;
+  background-color: #213D77;
+  padding-top: 8px;
+  font-size: 12px;
+  text-align: center;
+  font-weight: 700;
+  font-family: 'Roboto', sans-serif;
+  background-image: url(../media/chart.png);
+  background-position: left;
+  background-repeat: no-repeat;
+  background-size: 18px;
+  background-position-x: 8%;
+}
+#id_spanPNR{
+    float: left;
+    padding-left: 10%;
+  }
+#id_spanChart{
+    float: left;
+    padding-left: 10%;
+}
+#id_form{
+  width: 100%;
+  height: 75%;
+  background-color: white;
+  float: left;
+}
+#id_bookingText h1{
+  color: #213D77;
+  text-align: center;
+  font-size: 1.5em;
+  margin-top: 15px;
+}
+#id_ddmmyy{
+  width: 60.5%;
+  padding: 0px;
+  color: #213D77;
+  font-size: 10px;
+  margin: 0px;
+  float: right;
+  text-align: center;
+}
+#id_ddmmyy p{
+  margin: 0px;
+}
+#id_formLeft{
+  width: 60%;
+  height: 44%;
+  /* background-color: aqua; */
+  float: left;
+}
+#id_formRight{
+  width: 40%;
+  height: 44%;
+  /* background-color: aqua; */
+  float: right;
+}
+#id_formRight p{
+  margin: 0px;
+  font-size: 10px;
+}
+.leftInput1{
+  padding-top: 1%;
+  margin-left: 8%;
+  margin-bottom: 6%;
+  float: left;
+  padding-right: 35%;
+}
+.leftInput2{
+  padding-top: 1%;
+  margin-left: 8%;
+  margin-bottom: 6%;
+  float: left;
+  padding-right: 35%;
+}
+#id_leftDropBox{
+  padding-top: 1%;
+  padding-bottom: 1%;
+  padding-left: 2%;
+  margin-left: 8%;
+  /* margin-bottom: 2%; */
+  float: left;
+  padding-right: 24%;
+  color: #213D77;
+}
+.rightInput{
+  padding-right: 20%;
+  padding-left: 7%;
+  color: #213D77;
+}
+#id_rightDropBox{
+  padding-right: 22%;
+  margin-top: 9%;
+  padding-bottom: 1%;
+  padding-top: 1%;
+  padding-left: 7%;
+  color: #213D77;
+}
+#id_checkBox{
+  width: 90%;
+  height: 35%;
+  padding-left: 4%;
+  margin: auto;
+  /* background-color: brown; */
+  float: left;
+  color: #213D77;
+  font-size: 13px;
+}
+.check_box{
+  
+  margin-top: 3%;
+  padding-top: 15%;
+}
+
+#search{
+  margin-top: 2%;
+  margin-left: 1%;
+  border-radius: 5px;
+  padding: 5px 22px;
+  background-color: rgba(230, 108, 9, 0.829);
+  border: 0px;
+  color: white;
+  font-weight: 600;
+}
+
+#id_foodServices{
+  width: 100%;
+  height: 15%;
+  /* background-color: cyan; */
+  float: left;
+  margin-top: 2%;
+  background-color: white;
+  color: #213D77;
+  font-size: 13px;
+  font-family: 'Roboto', sans-serif;
+}
+
+#id_servicesSection{
+
+  height: 14%;
+  width: 100%;
+  /* background-color: blue; */
+}
+
+#id_holidayContentSection{
+  height: 42%;
+  width: 100%;
+  /* background-color: black; */
+
+}
+
+#additionInfoSection{
+  height: 16%;
+  width: 100%;
+  background-color: brown;
+
+}
